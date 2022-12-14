@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[415],{5415:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var c=n(184),r={container:{height:"calc(100vh - 100px)",display:"flex",alignItems:"center",justifyContent:"center"},title:{fontWeight:500,fontSize:48,textAlign:"center"}};function i(){return(0,c.jsx)("div",{style:r.container,children:(0,c.jsx)("h1",{style:r.title,children:"Contacts manager welcome page"})})}}}]);
+//# sourceMappingURL=415.2afdadd1.chunk.js.map
